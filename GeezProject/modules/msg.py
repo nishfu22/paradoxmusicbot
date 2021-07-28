@@ -20,7 +20,7 @@ class Messages():
       HELP_MSG = [
         ".",
 f"""
-**Hey 👋 Selamat datang kembali di {PROJECT_NAME}
+**halo gaess👋 welcome back to {PROJECT_NAME}
 
 ✣️ {PROJECT_NAME} dapat Memutar Lagu di Voice Chat Group Dengan cara yang Mudah.
 
@@ -29,7 +29,7 @@ f"""
 """,
 
 f"""
-**Pengaturan**
+**Pengaturan di baca yaa biar ga nanya mulu**
 
 1. Jadikan bot sebagai admin
 2. Mulai obrolan suara / VCG
